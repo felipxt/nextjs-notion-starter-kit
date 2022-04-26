@@ -45,16 +45,14 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'default'
-  navigationStyle: 'custom',
-  navigationLinks: [
-  {
- title: 'Sobre',
-pageId: '5513d0d3cefb45bab76eea9915d0ac8b'
-},
-{
-title: 'Currículo',
-pageId: 'https://drive.google.com/file/d/1W1LU_aYcIBeMUU3ubD34M519vKwgNmzL/view'
-}
-]
-})
+    // navigationStyle: 'custom',
+  // navigationLinks: [
+  //   {
+  //     title: 'About',
+  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //   },
+  //   {
+  //     title: 'Contact',
+  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //   }
+  // ]
